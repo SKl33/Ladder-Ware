@@ -6,7 +6,7 @@
 
 # Requirements.
 
-1. nothing only fortnite
+1. Windows 10/11 all WINVERS
 
 
 # Functions.
